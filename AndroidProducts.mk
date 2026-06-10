@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/infinty_spes.mk
+    $(LOCAL_DIR)/infinity_spes.mk
 
 COMMON_LUNCH_CHOICES := \
-    infinty_spes-user \
-    infinty_spes-userdebug \
-    infinty_spes-eng
+    infinity_spes-user \
+    infinity_spes-userdebug \
+    infinity_spes-eng
